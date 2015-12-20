@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Van Riper Test Site]]></title>
-        <description><![CDATA[Van Riper Test Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[YOU TALKIN' TO ME?  HOW TO WIN BUSINESS WITH GOOD DESIGN.]]></title>
+        <description><![CDATA[YOU TALKIN' TO ME?  HOW TO WIN BUSINESS WITH GOOD DESIGN.]]></description>
+        <link>https://thegrid.ai/vanripermktg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 23:00:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Dec 2015 23:22:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vanripermktg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[You talkin' to me?]]></title>
             <description><![CDATA[<article><h1>You talkin' to me?</h1><p>Lorem ipsum dolor sit amet, lobortis constituto contentiones mei ea, essent viderer malorum pri ea, detracto contentiones et has. Latine delenit facilisis has cu, sed et nostrum voluptua atomorum. Errem impetus albucius vel id, altera graeci et vis. </p></article>]]></description>
-            <link>undefinedyou-talkin-to-me/index.html</link>
+            <link>https://thegrid.ai/vanripermktg/you-talkin-to-me/index.html</link>
             <guid isPermaLink="false">2bc5e073-e3c6-4e76-b836-ef194d51de6a</guid>
-            <pubDate>Sun, 20 Dec 2015 23:00:36 GMT</pubDate>
+            <pubDate>Sun, 20 Dec 2015 23:22:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
