@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Focus on the experience of your customers at all touchpoints and  reach those who matter to your small business.
-datePublished: '2016-01-18T21:18:26.399Z'
+datePublished: '2016-01-18T21:18:26.397Z'
 dateModified: '2016-01-18T21:18:22.192Z'
 title: Vanishing Barrier Island
 author: []
