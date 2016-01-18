@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Focus on the experience of your customers at all touchpoints and  reach those who matter to your small business.
-datePublished: '2015-12-20T23:22:26.458Z'
-dateModified: '2015-12-20T23:21:50.599Z'
+datePublished: '2016-01-18T20:32:30.265Z'
+dateModified: '2016-01-18T20:32:16.863Z'
 title: "You talkin' to me?"
 author: []
+sourcePath: _posts/2015-12-20-you-talkin-to-me.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-20-you-talkin-to-me.md
-published: true
 url: you-talkin-to-me/index.html
 _type: Article
 
@@ -33,3 +33,4 @@ Eros consulatu dissentiet id usu, cu duo facer perfecto, vix wisi primis ceteros
 Pro no utinam sanctus ullamcorper, id duo dicta pertinax, vix appetere interesset ad. Ea meis probatus vel. 
 
 Ea choro dissentiunt quo, modus munere ponderum in eam. Vis stet debitis te, mea molestiae eloquentiam signiferumque te.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd616d47-7258-4744-9d7b-1cbc095f6fb3.jpg)
