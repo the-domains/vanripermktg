@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Focus on the experience of your customers at all touchpoints and  reach those who matter to your small business.
-datePublished: '2016-01-18T20:32:30.265Z'
+datePublished: '2016-01-18T20:32:30.293Z'
 dateModified: '2016-01-18T20:32:16.863Z'
 title: "You talkin' to me?"
 author: []
