@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Focus on the experience of your customers at all touchpoints and  reach those who matter to your small business.
-datePublished: '2016-01-18T22:25:31.865Z'
-dateModified: '2016-01-18T21:50:04.418Z'
-title: Vanishing Barrier Island
+datePublished: '2016-01-18T22:38:28.126Z'
+dateModified: '2016-01-18T22:38:23.767Z'
+title: VANISH
 author: []
 sourcePath: _posts/2015-12-20-you-talkin-to-me.md
 published: true
